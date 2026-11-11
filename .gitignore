@@ -1,0 +1,19 @@
+# Repository snapshots are large. They live in GitHub Release assets; see scripts/fetch_snapshots.sh.
+*/snapshots/
+*.tgz
+*.zip
+*.tar
+*.part-*
+.DS_Store
+__pycache__/
+
+# Secrets must never be committed
+kaggle.json
+access_token
+**/.kaggle/
+.env
+.env.*
+!.env.example
+*.pem
+id_rsa*
+id_ed25519*

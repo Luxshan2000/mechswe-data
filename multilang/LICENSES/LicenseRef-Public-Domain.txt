@@ -1,0 +1,10 @@
+LicenseRef-Public-Domain
+
+Used in this dataset for: stleary/JSON-java.
+
+These repositories declare their code to be in the public domain. There is no SPDX licence text for a
+public-domain statement, so this file records each repository's own statement at the pinned commit.
+
+stleary/JSON-java, top-level licence file, full text:
+
+Public Domain.

@@ -4,13 +4,13 @@
  "files": [
   {
    "path": "CITATION.cff",
-   "bytes": 1141,
-   "sha256": "2f63e03ca32b8504e46c95287e09813b94fe87b9ac7283217d7d4db83eb28820"
+   "bytes": 1007,
+   "sha256": "877909d6c632a71251b573c6b28f40279eb1c4e13f648b895fe979db51534507"
   },
   {
    "path": "DATASET_CARD.md",
-   "bytes": 75035,
-   "sha256": "6fc47cf9117cbaf2bf5d048ca91d15605c48b3d5e04a1864ee8e29ccb86c41a5"
+   "bytes": 74792,
+   "sha256": "7b110eff475f59e8233de2b8a080559ba0bdb3609e4fc8a5040f3469a965d442"
   },
   {
    "path": "LICENSE",
@@ -119,8 +119,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7788,
-   "sha256": "897d1a6bb3c443b882b05358de9fa676931675878c4dde4fdc41cf8118d7045d"
+   "bytes": 7500,
+   "sha256": "20e10a652b5ddfa77dfdae857da9b557d9203d6242cb7ee749e48edcb8cd4d05"
   },
   {
    "path": "THIRD_PARTY_NOTICES.md",
